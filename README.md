@@ -2,6 +2,8 @@
 
 This is a web-based dashboard that provides a visual representation of COVID-19 data worldwide. It is built using Streamlit, a Python library for creating interactive web applications, and Plotly, a Python graphing library for creating interactive plots and charts.
 
+Check it out here 👉🏼 https://covid-19-world-wide-dashboard.onrender.com
+
 ## Features
 
 - Filter data by country and WHO region using the sidebar on the left
