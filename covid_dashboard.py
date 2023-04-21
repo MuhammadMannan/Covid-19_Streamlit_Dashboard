@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(layout="wide", page_title="COVID-19 World Wide Dashboard 🦠")
 st.markdown("# Covid-19 World Wide Dashboard 🦠")
 st.markdown("### Created by Muhammad Mannan")
-st.markdown("### CSSE Mjor at The Univeristy of Washington Bothell")
+st.markdown("### CSSE Major at The Univeristy of Washington Bothell")
 st.write("This is a web-based dashboard that provides a visual representation of COVID-19 data worldwide. It is built using Streamlit, a Python library for creating interactive web applications, and Plotly, a Python graphing library for creating interactive plots and charts.")
 # Load data from CSV file
 df = pd.read_csv('covid_data.csv')  # Replace 'covid_data.csv' with your own CSV file name
