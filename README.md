@@ -11,6 +11,14 @@ This is a web-based dashboard that provides a visual representation of COVID-19 
 - Show a bar chart with confirmed cases by country
 - Display a heatmap with confirmed cases by country
 
+## Screenshots
+
+![Screenshot 1](screenshot1.png)
+
+![Screenshot 2](screenshot2.png)
+
+![Screenshot 3](screenshot3.png)
+
 ## Prerequisites
 
 Before running the dashboard, make sure you have the following installed:
@@ -56,13 +64,3 @@ If you wish to contribute to this project, feel free to submit a pull request or
 - Data source: [Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE)](https://github.com/CSSEGISandData/COVID-19)
 - Streamlit: https://streamlit.io/
 - Plotly: https://plotly.com/
-
-## Screenshots
-
-Include screenshots of your dashboard in action, showcasing the different visualizations and features.
-
-![Screenshot 1](screenshot1.png)
-
-![Screenshot 2](screenshot2.png)
-
-![Screenshot 3](screenshot3.png)
