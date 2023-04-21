@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 import plotly.express as px
-import matplotlib.pyplot as plt
 
 st.set_page_config(layout="wide", page_title="COVID-19 World Wide Dashboard 🦠")
 st.markdown("# Covid-19 World Wide Dashboard 🦠")
