@@ -66,5 +66,3 @@ Include screenshots of your dashboard in action, showcasing the different visual
 ![Screenshot 2](screenshot2.png)
 
 ![Screenshot 3](screenshot3.png)
-
-Feel free to customize the README to your liking, including adding more sections or information relevant to your project. Make sure to update the README with any changes to the code or project in the future to keep it up to date.
